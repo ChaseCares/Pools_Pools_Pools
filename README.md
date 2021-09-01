@@ -24,24 +24,24 @@ This can be downloaded by clicking `Code >> Download zip`
 
 ### Main filter cartridge (the tall one)
 
-    Use low to moderate water pressure, work from top to bottom. Be careful not to break the bands that run around the filter as these keep the pleats separated.
+Use low to moderate water pressure, work from top to bottom. Be careful not to break the bands that run around the filter as these keep the pleats separated.
 
-    Visually inspect the filter to make sure there's no tears or any damage. The plates can be separated slightly to make sure there is no leftover debris, most debris will be towards the back of the pleat and may be difficult to remove.
+Visually inspect the filter to make sure there's no tears or any damage. The plates can be separated slightly to make sure there is no leftover debris, most debris will be towards the back of the pleat and may be difficult to remove.
 
 ### Filter Baskets
 
-    The filter basket at the inlet (in the pool), will need to be cleaned the most often.
+The filter basket at the inlet (in the pool), will need to be cleaned the most often.
 
-    The filter basket attached to the pump will need to be cleaned less often and can be visually inspected through the site glass attached to the pump
+The filter basket attached to the pump will need to be cleaned less often and can be visually inspected through the site glass attached to the pump
 
 ## Notes
 
-    Remember to lubricate all seals and visually inspect them when reassembling. Check seals for cracks or signs of drying out, these can be easily replaced. Can be lubricated with Vaseline or any O-ring safe lubricant, more is better.
+Remember to lubricate all seals and visually inspect them when reassembling. Check seals for cracks or signs of drying out, these can be easily replaced. Can be lubricated with Vaseline or any O-ring safe lubricant, more is better.
 
     Valves probably could be left open during cleaning, although it is preferable to close the valves as this allows you to check their operation and cycle them regularly to keep them moving.
 ![Picture indicating open/close](pictures/open-and-closed-ball-valve-diagram.png)
 
-    After initial cleaning pressure gauge indicated 10 psi
+After initial cleaning pressure gauge indicated 10 psi
 
 ## Schedule
 
@@ -67,6 +67,8 @@ This can be downloaded by clicking `Code >> Download zip`
 ## Equipment
 
 + Chlorine generator: Aqua pure, APure700
+
 ![See photo](pictures/IMG_6280.jpg)
+
 + Cartridge filter: 32x7" with 33 openings (Maybe, need to measure.)
 ![See photo](pictures/filter.png)
