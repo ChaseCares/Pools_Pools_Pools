@@ -67,6 +67,6 @@ This can be downloaded by clicking `Code >> Download zip`
 ## Equipment
 
 + Chlorine generator: Aqua pure, APure700
-![See photo](pictures\IMG_6280.jpg)
+![See photo](pictures/IMG_6280.jpg)
 + Cartridge filter: 32x7" with 33 openings (Maybe, need to measure.)
 ![See photo](pictures/filter.png)
