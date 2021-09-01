@@ -38,7 +38,8 @@ The filter basket attached to the pump will need to be cleaned less often and ca
 
 Remember to lubricate all seals and visually inspect them when reassembling. Check seals for cracks or signs of drying out, these can be easily replaced. Can be lubricated with Vaseline or any O-ring safe lubricant, more is better.
 
-    Valves probably could be left open during cleaning, although it is preferable to close the valves as this allows you to check their operation and cycle them regularly to keep them moving.
+Valves probably could be left open during cleaning, although it is preferable to close the valves as this allows you to check their operation and cycle them regularly to keep them moving.
+
 ![Picture indicating open/close](pictures/open-and-closed-ball-valve-diagram.png)
 
 After initial cleaning pressure gauge indicated 10 psi
